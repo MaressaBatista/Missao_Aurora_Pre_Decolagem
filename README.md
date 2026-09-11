@@ -43,14 +43,14 @@ Cálculos responsáveis por definir a autonomia e a viabilidade energética da m
 ## Prints da execução 
 ### 1. Execução da Telemetria (Sem Anomalias)
 > Visualização dos registros em conformidade com as faixas de segurança operacionais.
-<img width="3965" height="1117" alt="Tabela_Telemetria_Aurora_Sem_Anomalias" src="https://github.com/user-attachments/assets/bf76249a-149c-4cdd-ac43-40e4876894fb" />
+![Descrição da Imagem](images/Tabela_Telemetria_Aurora_Sem_Anomalias.png)
 
 
 ### 2. Execução da Telemetria (Com Anomalias)
 > Demonstração da injeção estocástica de falhas (ex: pressão excessiva nos tanques) resultando no aborto automático do lançamento.
-<img width="3965" height="1117" alt="Tabela_Telemetria_Aurora_Anomalias" src="https://github.com/user-attachments/assets/ff1de7f9-9de5-4668-b0a8-db0072700379" />
+![Descrição da Imagem](images/Tabela_Telemetria_Aurora_Anomalias.png)
 
 
 ### 3. Log de Execução do Script em Python
 > Saída detalhada do terminal simulando a auditoria linha por linha da telemetria da Missão Aurora.
-<img width="2007" height="1589" alt="script_python_execucao" src="https://github.com/user-attachments/assets/edf533ce-f145-4125-9143-261aa03b1c7b" />
+![Descrição da Imagem](images/Script_Python_Execucao.png)
